@@ -1,0 +1,20 @@
+header {
+    width: 100%;
+    background-color: grey;
+    height: 80px;
+    background-image:url(ilya-pavlov-OqtafYT5kTw-unsplash.jpg) ;
+    filter: grayscale();
+    border-radius: 25px;
+    }
+body {background-color:black
+
+
+    }
+p{color: bisque;
+text-orientation: upright;} 
+h{color: bisque;}
+h2{color: bisque;} 
+button{background-color: purple;
+border-radius: 25px;} 
+span{font-style: unset;}
+ol{color: bisque;} 

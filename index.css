@@ -18,3 +18,22 @@ button{background-color: purple;
 border-radius: 25px;} 
 span{font-style: unset;}
 ol{color: bisque;} 
+#page-container {
+    position: relative;
+    min-height: 100vh;
+  }
+  
+  #content-wrap {
+    padding-bottom: 2.5rem;    
+  }
+  
+  #footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+    background-color: aliceblue; 
+    background-image: url(ilya-pavlov-OqtafYT5kTw-unsplash.jpg); 
+    filter: invert(100%) blur(45%); 
+    border-radius: 25px;         
+  }
